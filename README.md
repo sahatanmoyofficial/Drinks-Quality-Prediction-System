@@ -24,7 +24,7 @@
 
 > **Want a visual overview first?** Browse the full presentation before diving into the code.
 
-👉 **[View the Project Presentation (PPTX)](./DQPS_Project_Slides.pptx)**
+👉 **[View the Project Presentation (PPTX)](https://docs.google.com/presentation/d/1SIn5JGVDky2c8-ljgt45xrylevygwFw6/edit?usp=sharing&ouid=117459468470211543781&rtpof=true&sd=true)**
 
 The deck covers: business problem → architecture → pipeline stages → model results → web UI → deployment — in 12 slides.
 
