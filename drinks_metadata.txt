@@ -1,0 +1,37 @@
+Project Details: Drinks Quality Prediction System
+
+1. Learning Outcome
+- End-to-End ML Lifecycle: Master the complete journey from data ingestion and validation to model training and deployment.
+- Modular Coding: Learn to write clean, modular, and production-ready Python code structured for scalability.
+- MLOps Foundations: Understand key MLOps concepts including automated pipelines, reproducibility, and component-based architecture.
+- Cloud Deployment: Gain hands-on experience deploying containerized applications to AWS (EC2, ECR) using CI/CD pipelines.
+- CI/CD Automation: Implement continuous integration and deployment workflows using GitHub Actions.
+- API Development: Build and expose machine learning models via RESTful APIs using Flask.
+- Experiment Tracking: Learn how to track experiments and manage configuration using params.yaml and schema.yaml.
+
+2. What you will build
+- Drinks Quality Prediction System: A robust machine learning application capable of predicting the quality of drinks (e.g., wine) based on physicochemical properties.
+- Automated Training Pipeline: A multi-stage pipeline that handles:
+  - Data Ingestion: Downloading and extracting data.
+  - Data Validation: Ensuring data schema consistency.
+  - Data Transformation: Preprocessing features for the model.
+  - Model Training: Training an ElasticNet regression model (or similar).
+  - Model Evaluation: Calculating and logging metrics (RMSE, MAE, R2).
+- Web Application: A user-friendly Flask-based web interface for real-time predictions.
+- Deployment Infrastructure: A Dockerized application ready for deployment on cloud platforms like AWS EC2.
+
+3. Prerequisite
+- Python Proficiency: Comfortable with Python syntax, functions, and object-oriented programming.
+- ML Fundamentals: Basic understanding of regression algorithms, data splitting, and evaluation metrics.
+- Version Control: Familiarity with Git for tracking changes.
+- Cloud Basics: (Optional but recommended) Basic knowledge of AWS services and an active AWS account.
+
+4. Technologies
+- Programming Language: Python
+- Web Framework: Flask
+- Data & ML Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+- Configuration Management: PyYAML, python-box
+- Containerization: Docker
+- CI/CD: GitHub Actions
+- Cloud Platform: AWS (EC2, ECR) - Deployment Target
+- Frontend: HTML/CSS (Jinja2 Templates)
